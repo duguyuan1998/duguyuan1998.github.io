@@ -1,0 +1,576 @@
+[
+    {
+        "menu": "搜索引擎",
+        "icon": "linecons-star",
+        "websiteList": [
+            {
+                "url": "https://www.baidu.com/",
+                "title": "百度",
+                "imageSrc": "https://www.baidu.com/favicon.ico",
+                "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。"
+            },
+            {
+                "url": "https://kaifa.baidu.com/",
+                "title": "百度开发者搜索",
+                "imageSrc": "https://kaifa.baidu.com/assets/favicon.ico",
+                "description": "开发者搜索是一个面向开发者的知识搜索平台，专注于为开发者提供高效的技术搜索服务。"
+            },
+            {
+                "url": "https://cn.bing.com/",
+                "title": "必应",
+                "imageSrc": "https://cn.bing.com/sa/simg/favicon-trans-bg-blue-mg-png.png",
+                "description": "必应可帮助你将理论付诸实践，使得搜索更加方便快捷，从而达到事半功倍的效果。"
+            },
+            {
+                "url": "https://weixin.sogou.com/",
+                "title": "搜狗微信搜索",
+                "imageSrc": "https://www.sogou.com/images/logo/new/favicon.ico?nv=1&v=3",
+                "description": "微信公众号，精彩内容独家收录，一搜即达"
+            }
+        ],
+        "menuChildList": []
+    },
+    {
+        "menu": "编程网站",
+        "icon": "linecons-lightbulb",
+        "websiteList": [],
+        "menuChildList": [
+            {
+                "menu": "博客社区",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://www.csdn.net/",
+                        "title": "CSDN - 专业开发者社区",
+                        "imageSrc": "https://g.csdnimg.cn/static/logo/favicon32.ico",
+                        "description": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区."
+                    },
+                    {
+                        "url": "https://www.cnblogs.com/",
+                        "title": "博客园 - 开发者的网上家园",
+                        "imageSrc": "./assets/images/logos/cnblogs.svg",
+                        "description": "博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。"
+                    },
+                    {
+                        "url": "https://juejin.cn/",
+                        "title": "稀土掘金",
+                        "imageSrc": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/apple-touch-icon.png",
+                        "description": "掘金是面向全球中文开发者的技术内容分享与交流平台。我们通过技术文章、沸点、课程、直播等产品和服务，打造一个激发开发者创作灵感，激励开发者沉淀分享，陪伴开发者成长的综合类技术社区。"
+                    },
+                    {
+                        "url": "https://www.oschina.net/",
+                        "title": "OSCHINA - 中文开源技术交流社区",
+                        "imageSrc": "./assets/images/logos/oschina.ico",
+                        "description": "OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台"
+                    },
+                    {
+                        "url": "https://www.51cto.com/",
+                        "title": "51CTO-中国领先的IT技术网站",
+                        "imageSrc": "https://s5-media.51cto.com/cms/static/favicon.ico",
+                        "description": "51CTO是中国领先的IT技术在线学习平台和中国最大的IT技术社区之一，以服务IT技术人员职业成长为己任，对中国数千万IT技术人员拥有强大的影响力和服务能力。通过技术社区、技术博客和新媒体矩阵等综合产品服务体系，凝聚了2000万+IT技术人员、50万+位技术博主和近千家IT公司的CTO；通过丰富且高质量的IT技术在线教育资源，完整覆盖就业培训、在职提升、认证考试等职业教育领域，分别打造企业培训、个人提升创新产品矩阵，服务IT人才成长。同时，作为华为鸿蒙操作系统合作伙伴，51CTO承担了鸿蒙官方技术社区的运营，全力服务于鸿蒙开发者生态。"
+                    }
+                ]
+            },
+            {
+                "menu": "编程实战",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://leetcode.cn/",
+                        "title": "力扣（LeetCode）官网",
+                        "imageSrc": "https://leetcode.cn/favicon.ico",
+                        "description": "备战技术面试？力扣提供海量技术面试资源，帮助你高效提升编程技能，轻松拿下世界 IT 名企 Dream Offer。"
+                    },
+                    {
+                        "url": "https://www.nowcoder.com/",
+                        "title": "牛客网",
+                        "imageSrc": "https://static.nowcoder.com/fe/file/images/nowpick/web/www-favicon.ico",
+                        "description": "求职之前，先上牛客，就业找工作一站解决。互联网IT技术/产品/运营/硬件/汽车机械制造/金融/财务管理/审计/银行/市场营销/地产/快消/管培生等等专业技能学习/备考/求职神器，在线进行企业校招实习笔试面试真题模拟考试练习，全面提升求职竞争力，找到好工作，拿到好offer。_牛客网_牛客在手,offer不愁"
+                    }
+                ]
+            },
+            {
+                "menu": "代码托管",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://github.com/",
+                        "title": "GitHub",
+                        "imageSrc": "https://github.githubassets.com/favicons/favicon.png",
+                        "description": "GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 330 million projects."
+                    },
+                    {
+                        "url": "https://gitee.com/",
+                        "title": "码云",
+                        "imageSrc": "https://gitee.com/favicon.ico",
+                        "description": "Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 1000 万的开发者选择 Gitee。"
+                    }
+                ]
+            },
+            {
+                "menu": "编程学习",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://www.runoob.com/",
+                        "title": "菜鸟教程",
+                        "imageSrc": "https://static.jyshare.com/images/favicon.ico",
+                        "description": "菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。"
+                    },
+                    {
+                        "url": "https://www.w3school.com.cn/",
+                        "title": "w3school 在线教程",
+                        "imageSrc": "https://www.w3school.com.cn/ui2019/logo-96-red.png",
+                        "description": "全球最大的中文 Web 技术教程。"
+                    },
+                    {
+                        "url": "https://www.w3cschool.cn/",
+                        "title": "w3cschool官网",
+                        "imageSrc": "https://7n.w3cschool.cn/statics/images/favicon.ico?v=2.2",
+                        "description": "w3cschool启用中文品牌名--编程狮，是一个专业的W3C前端开发及编程入门学习平台，提供包括HTML,CSS,Javascript,jQuery,C,PHP,Java,Python,Sql,Mysql等编程语言和开源技术的在线教程及使用手册，是类国外w3schools的W3C学习社区及菜鸟编程平台。"
+                    },
+                    {
+                        "url": "https://www.hello-algo.com/",
+                        "title": "Hello 算法",
+                        "imageSrc": "https://www.hello-algo.com/assets/images/logo.png",
+                        "description": "动画图解、一键运行的数据结构与算法教程"
+                    },
+                    {
+                        "url": "https://www.pdai.tech/",
+                        "title": "Java 全栈知识体系",
+                        "imageSrc": "https://www.pdai.tech/favicon.ico",
+                        "description": "包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目..."
+                    },
+                    {
+                        "url": "https://javaguide.cn/",
+                        "title": "Java 面试指南 | JavaGuide",
+                        "imageSrc": "https://javaguide.cn/favicon.ico",
+                        "description": "关于网站 JavaGuide 已经持续维护 5 年多了，累计提交了 5000+ commit ，共有 440 多位朋友参与维护。真心希望能够把这个项目做好，真正能够帮助到有需要的朋友！ 如果觉得 JavaGuide 的内容对你有帮助的话，还请点个免费的 Star（绝不强制点 Star，你觉得内容不错再点赞就好），这是对我最大的鼓励，感谢各位一起同行，共..."
+                    },
+                    {
+                        "url": "https://javabetter.cn/",
+                        "title": "二哥的Java进阶之路",
+                        "imageSrc": "https://javabetter.cn/assets/icon/apple-icon-152.png",
+                        "description": "推荐阅读 学习路线👉 : 一份涵盖 Java、MySQL、Redis、C 语言、C++、Python、Go、操作系统、前端、数据结构与算法、蓝桥杯、大数据、Android、.NET的全方位编程学习路线！清晰且有效！ 面渣逆袭📗 ：面试前必刷，硬核理解版八股文，包括 Java 基础（JavaSE）、Java 集合框架、Java 并发编程（Java 多线程）、Java 虚拟机（JVM）、Spring、Redis、MyBatis、MySQL、操作系统、计算机网络、RocketMQ、分布式等等，助你拿到心仪 offer！ Java程序员常读书单📚：超1000本PDF，助力Java 程序员构建最强知识体系，涵盖Java、设计模式、数据库、数据结构与算法、大数据、架构、其他编程语言等等，再也不用辛苦去找下载地址了，这里全都有。 技术派实战项目 ：⭐️一款好用又强大的开源社区，附详细教程，包括Java、Spring、MySQL、Redis、微服务&分布式、消息队列、操作系统、计算机网络、数据结构与算法等计算机专业核心知识点。学编程，就上技术派😁。"
+                    },
+                    {
+                        "url": "https://xiaolincoding.com/",
+                        "title": "小林coding",
+                        "imageSrc": "https://xiaolincoding.com/icon.webp",
+                        "description": "图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！"
+                    }
+                ]
+            },
+            {
+                "menu": "官方文档",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://spring.io/",
+                        "title": "Spring",
+                        "imageSrc": "https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8",
+                        "description": "Level up your Java code and explore what Spring can do for you."
+                    },
+                    {
+                        "url": "https://mybatis.org/mybatis-3/zh/",
+                        "title": "MyBatis",
+                        "imageSrc": "./assets/images/logos/MyBatis.png",
+                        "description": "mybatis – MyBatis 中文官方文档"
+                    },
+                    {
+                        "url": "https://baomidou.com/",
+                        "title": "MyBatis-Plus",
+                        "imageSrc": "https://baomidou.com/img/favicon.ico",
+                        "description": "MyBatis-Plus 官方文档"
+                    },
+                    {
+                        "url": "https://cn.vuejs.org/",
+                        "title": "Vue.js - 渐进式 JavaScript 框架",
+                        "imageSrc": "https://cn.vuejs.org/logo.svg",
+                        "description": "Vue.js - 渐进式的 JavaScript 框架"
+                    },
+                    {
+                        "url": "https://element.eleme.cn/#/zh-CN",
+                        "title": "Element - 网站快速成型工具",
+                        "imageSrc": "https://element.eleme.cn/favicon.ico",
+                        "description": "Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库"
+                    },
+                    {
+                        "url": "https://pro.ant.design/zh-CN/",
+                        "title": "Ant Design Pro - 开箱即用的中台前端/设计解决方案",
+                        "imageSrc": "https://pro.ant.design/favicon.png",
+                        "description": "让中后台开发更简单 包含 table form 等多个组件。"
+                    },
+                    {
+                        "url": "https://arthas.aliyun.com/",
+                        "title": "Arthas",
+                        "imageSrc": "https://arthas.aliyun.com/images/favicon.ico",
+                        "description": "arthas 使用文档"
+                    },
+                    {
+                        "url": "https://developers.weixin.qq.com/doc/",
+                        "title": "微信官方文档 | 微信开放文档",
+                        "imageSrc": "https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico",
+                        "description": "微信开发者平台文档"
+                    },
+                    {
+                        "url": "https://nacos.io/zh-cn/docs/what-is-nacos.html",
+                        "title": "Nacos文档",
+                        "imageSrc": "https://img.alicdn.com/tfs/TB1hgJpHAPoK1RjSZKbXXX1IXXa-64-64.png",
+                        "description": "Nacos官方文档"
+                    },
+                    {
+                        "url": "https://sentinelguard.io/zh-cn/docs/introduction.html",
+                        "title": "Sentinel文档",
+                        "imageSrc": "https://sentinelguard.io/img/sentinel.ico",
+                        "description": "Sentinel官方文档"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "menu": "工具网站",
+        "icon": "linecons-lightbulb",
+        "websiteList": [],
+        "menuChildList": [
+            {
+                "menu": "通讯工具",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://email.163.com/",
+                        "title": "网易免费邮箱 - 你的专业电子邮局",
+                        "imageSrc": "https://email.163.com/favicon.ico",
+                        "description": "网易免费邮箱，你的专业电子邮局，提供以@163.com、@126.com和@yeah.net为后缀的免费邮箱。超过20年邮箱运营经验，系统快速稳定安全，支持超大附件和网盘服务。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。"
+                    },
+                    {
+                        "url": "https://mail.qq.com/",
+                        "title": "QQ邮箱",
+                        "imageSrc": "https://mail.qq.com/zh_CN/htmledition/images/favicon/qqmail_favicon_96h.png",
+                        "description": "QQ邮箱，为亿万用户提供高效稳定便捷的电子邮件服务。你可以在电脑网页、iOS/iPad客户端、及Android客户端上使用它，通过邮件发送3G的超大附件，体验文件中转站、日历、记事本、漂流瓶等特色功能。QQ邮箱，常联系。"
+                    }
+                ]
+            },
+            {
+                "menu": "实用工具",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://fanyi.baidu.com/",
+                        "title": "百度翻译-200种语言互译、沟通全世界！",
+                        "imageSrc": "https://fanyi-cdn.cdn.bcebos.com/webStatic/translation/img/favicon/favicon-32x32.png",
+                        "description": "百度翻译提供即时免费200+语言翻译服务，拥有网页、APP、API产品，支持文本翻译、文档翻译、图片翻译等特色功能，满足用户查词翻译、文献翻译、合同翻译等需求，随时随地沟通全世界"
+                    },
+                    {
+                        "url": "https://fanyi.youdao.com/",
+                        "title": "有道翻译_文本、文档、网页、在线即时翻译",
+                        "imageSrc": "https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png",
+                        "description": "有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译、PDF翻译、DOC翻译、PPT翻译、人工翻译、同传等服务。"
+                    },
+                    {
+                        "url": "https://js.design/",
+                        "title": "即时设计",
+                        "imageSrc": "https://img.js.design/assets/webImg/favicon.ico",
+                        "description": "即时设计是一款在线可协作的UI设计工具，是可协作的在线sketch、国内版figma，拥有海量的设计资源与素材，支持导入sketch格式的源文件。支持创建交互原型、获取设计标注、快速切图、团队协作等工作。"
+                    }
+                ]
+            },
+            {
+                "menu": "编程工具",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://mvnrepository.com/",
+                        "title": "Maven Repository: Search/Browse/Explore",
+                        "imageSrc": "./assets/images/logos/mvnrepository.ico",
+                        "description": "Maven资源搜索网站"
+                    },
+                    {
+                        "url": "https://www.iconfont.cn/",
+                        "title": "iconfont-阿里巴巴矢量图标库",
+                        "imageSrc": "https://img.alicdn.com/imgextra/i4/O1CN01Z5paLz1O0zuCC7osS_!!6000000001644-55-tps-83-82.svg",
+                        "description": "iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具"
+                    }
+                ]
+            },
+            {
+                "menu": "资源网站",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://www.bilibili.com/",
+                        "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                        "imageSrc": "https://www.bilibili.com/favicon.ico?v=1",
+                        "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。"
+                    },
+                    {
+                        "url": "http://shu.ziyuandi.cn/",
+                        "title": "资源帝电子书导航_在这里发现更多好书...",
+                        "imageSrc": "./assets/images/logos/ziyuandi.ico",
+                        "description": "资源帝电子书在这里发现更多好书..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "menu": "软件网站",
+        "icon": "linecons-thumbs-up",
+        "websiteList": [],
+        "menuChildList": [
+            {
+                "menu": "软件镜像",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://mirrors.ustc.edu.cn/",
+                        "title": "中国科学技术大学开源软件镜像站",
+                        "imageSrc": "https://mirrors.ustc.edu.cn/static/img/favicon.png",
+                        "description": "中国科学技术大学开源软件镜像网站"
+                    },
+                    {
+                        "url": "https://developer.aliyun.com/mirror/",
+                        "title": "阿里巴巴开源镜像站",
+                        "imageSrc": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+                        "description": "阿里巴巴开源镜像网站"
+                    },
+                    {
+                        "url": "http://mirrors.163.com/",
+                        "title": "网易开源镜像站",
+                        "imageSrc": "http://mirrors.163.com/.media/favicon.ico",
+                        "description": "网易开源镜像网站"
+                    }
+                ]
+            },
+            {
+                "menu": "软件下载",
+                "icon": "",
+                "websiteList": [
+                    {
+                        "url": "https://www.wepe.com.cn/",
+                        "title": "微PE工具箱 - 超好用的装机维护工具",
+                        "imageSrc": "https://www.wepe.com.cn/favicon.ico",
+                        "description": "跨时代的PE工具箱，装机维护得力的助手，最后的救命稻草。化繁为简，小材大用，一键安装，极速启动。"
+                    },
+                    {
+                        "url": "https://msdn.itellyou.cn/",
+                        "title": "MSDN, 我告诉你 - 做一个安静的工具站",
+                        "imageSrc": "https://msdn.itellyou.cn/favicon.ico",
+                        "description": "MSDN, 我告诉你"
+                    },
+                    {
+                        "url": "https://www.centos.org/",
+                        "title": "CentOS Project",
+                        "imageSrc": "https://www.centos.org/assets/img/favicon.png",
+                        "description": "Community-driven free software effort focused around the goal of providing a rich base platform for open source communities to build upon."
+                    },
+                    {
+                        "url": "https://cn.ubuntu.com/",
+                        "title": "企业开源和Linux | Ubuntu",
+                        "imageSrc": "https://cn.ubuntu.com/static/img/favicon.ico",
+                        "description": "Ubuntu是适用于企业服务器、桌面电脑、云、IoT物联网的现代化开源Linux操作系统。Ubuntu官网。"
+                    },
+                    {
+                        "url": "https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html",
+                        "title": "VMware Workstation Pro",
+                        "imageSrc": "https://www.vmware.com/favicon.ico",
+                        "description": "VMware Workstation Pro is the industry standard desktop hypervisor for running virtual machines on Linux or Windows PCs. Discover why."
+                    },
+                    {
+                        "url": "https://www.google.cn/chrome/",
+                        "title": "Google Chrome 网络浏览器",
+                        "imageSrc": "https://www.google.cn/chrome/static/images/favicons/favicon-16x16.png",
+                        "description": "得益于 Google 智能工具，Chrome 现在更易用、更安全、更快速。"
+                    },
+                    {
+                        "url": "https://www.firefox.com.cn/",
+                        "title": "Firefox 火狐浏览器 - 全新、安全、快速",
+                        "imageSrc": "https://www.firefox.com.cn/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png",
+                        "description": "下载由致力于互联网健康与隐私保护的非营利组织 Mozilla 全力开发的浏览器 — Firefox。Windows、Mac、Linux、Android、与 iOS 版皆可免费下载。"
+                    },
+                    {
+                        "url": "https://pan.baidu.com/",
+                        "title": "百度网盘-免费云盘丨文件共享软件丨超大容量丨存储安全",
+                        "imageSrc": "https://nd-static.bdstatic.com/m-static/wp-brand/favicon.ico",
+                        "description": "百度网盘是一款国民级产品，已连续9年为超过7亿用户提供稳定、安全的个人云存储服务，已实现电脑、手机、电视等多种终端场景的覆盖和互联，并支持多类型文件的备份、分享、查看和处理"
+                    },
+                    {
+                        "url": "https://www.aliyundrive.com/",
+                        "title": "阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品",
+                        "imageSrc": "https://img.alicdn.com/imgextra/i1/O1CN01JDQCi21Dc8EfbRwvF_!!6000000000236-73-tps-64-64.ico",
+                        "description": "阿里云盘是一款速度快、不打扰、够安全、易于分享的个人网盘，欢迎你来体验。"
+                    },
+                    {
+                        "url": "https://shurufa.sogou.com/",
+                        "title": "搜狗输入法",
+                        "imageSrc": "./assets/images/logos/sougou.ico",
+                        "description": "搜狗拼音输入法官网下载，荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法，是您装机输入的好选择。享受输入，从搜狗开始！"
+                    },
+                    {
+                        "url": "https://www.wps.cn/",
+                        "title": "WPS官方网站",
+                        "imageSrc": "https://static.epy.wpscdn.cn/favicon.ico?v=1g",
+                        "description": "金山文档,全新一代云Office办公软件,支持多人在线协同办公,实时协作，并设置文档访问、编辑权限。独有内容级安全，全程留痕可追溯.PC/移动双端覆盖,随时随地在线协同办公,在线文档即写即存统一管理,高效共享文档、表格。"
+                    },
+                    {
+                        "url": "https://www.bandisoft.com/",
+                        "title": "Bandisoft - Bandizip, Honeycam, Honeyview",
+                        "imageSrc": "https://www.bandisoft.com/img/bandisoft.png",
+                        "description": "Home of Bandisoft"
+                    },
+                    {
+                        "url": "https://potplayer.tv/",
+                        "title": "Global Potplayer",
+                        "imageSrc": "https://t1.daumcdn.net/potplayer/main/img/favicon.ico",
+                        "description": "POT PLAYER - multimedia player"
+                    },
+                    {
+                        "url": "https://zh.snipaste.com/",
+                        "title": "Snipaste - 截图 + 贴图",
+                        "imageSrc": "https://zh.snipaste.com/favicon.ico",
+                        "description": "截图 + 贴图，提高您的工作效率"
+                    },
+                    {
+                        "url": "https://www.faststone.org/",
+                        "title": "FastStone",
+                        "imageSrc": "./assets/images/logos/faststone.ico",
+                        "description": "FastStone Image Viewer, Screen Capture, Photo Resizer ..."
+                    },
+                    {
+                        "url": "https://www.screentogif.com/",
+                        "title": "ScreenToGif - Record your screen, edit and save as a gif, video or other formats",
+                        "imageSrc": "https://www.screentogif.com/logos/favicon.ico",
+                        "description": "Free screen recorder tool, which lets you record, edit and save as a gif, video or other formats."
+                    },
+                    {
+                        "url": "https://www.xshell.com/zh/free-for-home-school/",
+                        "title": "家庭/学校免费 - NetSarang Website",
+                        "imageSrc": "https://www.xshell.com/wp-content/uploads/2018/12/favicon.ico",
+                        "description": "NetSarang Computer,Inc.以过去10年免费提供强大的SSH和SFTP/FTP客户端而自豪。我们的免费许可证不仅是免费的价格，而且没有广告或其他剥削用户的方式。我们认为，来自各种背景和环境的用户都应该能够访问功能强大、功能丰富的SSH和SFTP/FTP客户机。无论是学习、教学，还是仅仅是作为一种爱好的补充。"
+                    },
+                    {
+                        "url": "https://mobaxterm.mobatek.net/",
+                        "title": "MobaXterm free Xserver and tabbed SSH client for Windows",
+                        "imageSrc": "https://mobaxterm.mobatek.net/favicon.ico",
+                        "description": "Free X server for Windows with tabbed SSH terminal, telnet, RDP, VNC, Xdmcp, Mosh and X11-forwarding. Portable or installer version."
+                    },
+                    {
+                        "url": "https://git-scm.com/",
+                        "title": "Git",
+                        "imageSrc": "https://git-scm.com/favicon.ico",
+                        "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+                    },
+                    {
+                        "url": "https://tortoisegit.org/",
+                        "title": "TortoiseGit – Windows Shell Interface to Git",
+                        "imageSrc": "https://tortoisegit.org/favicon.ico",
+                        "description": "TortoiseGit provides overlay icons showing the file status, a powerful context menu for Git and much more!"
+                    },
+                    {
+                        "url": "https://nodejs.org/zh-cn",
+                        "title": "Node.js",
+                        "imageSrc": "https://nodejs.org/static/images/favicons/favicon.png",
+                        "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+                    },
+                    {
+                        "url": "https://nginx.org/en/",
+                        "title": "nginx",
+                        "imageSrc": "https://nginx.org/favicon.ico",
+                        "description": "nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server."
+                    },
+                    {
+                        "url": "https://nacos.io/zh-cn/",
+                        "title": "Nacos",
+                        "imageSrc": "https://img.alicdn.com/tfs/TB1hgJpHAPoK1RjSZKbXXX1IXXa-64-64.png",
+                        "description": "一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。"
+                    },
+                    {
+                        "url": "https://sentinelguard.io/zh-cn/",
+                        "title": "Sentinel",
+                        "imageSrc": "https://sentinelguard.io/img/sentinel.ico",
+                        "description": "面向分布式、多语言异构化服务架构的流量治理组件"
+                    },
+                    {
+                        "url": "https://www.oracle.com/",
+                        "title": "Oracle | Cloud Applications and Cloud Platform",
+                        "imageSrc": "./assets/images/logos/oracle.ico",
+                        "description": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services."
+                    },
+                    {
+                        "url": "https://tomcat.apache.org/",
+                        "title": "Apache Tomcat® - Welcome!",
+                        "imageSrc": "https://tomcat.apache.org/favicon.ico",
+                        "description": "Apache Tomcat官方网站"
+                    },
+                    {
+                        "url": "https://maven.apache.org/",
+                        "title": "Maven – Welcome to Apache Maven",
+                        "imageSrc": "https://maven.apache.org/favicon.ico",
+                        "description": "Apache Maven官方网站"
+                    },
+                    {
+                        "url": "https://jmeter.apache.org/",
+                        "title": "Apache JMeter - Apache JMeter™",
+                        "imageSrc": "https://jmeter.apache.org/images/favicon.png",
+                        "description": "Apache JMeter官方网站"
+                    },
+                    {
+                        "url": "https://www.mysql.com/",
+                        "title": "MySQL",
+                        "imageSrc": "https://labs.mysql.com/common/themes/sakila/favicon.ico",
+                        "description": "MySQL官方网站"
+                    },
+                    {
+                        "url": "https://www.postgresql.org/",
+                        "title": "PostgreSQL: The world's most advanced open source database",
+                        "imageSrc": "https://www.postgresql.org/favicon.ico",
+                        "description": "The official site for PostgreSQL, the world's most advanced open source database"
+                    },
+                    {
+                        "url": "https://redis.io/",
+                        "title": "Redis",
+                        "imageSrc": "https://redis.io/images/favicons/favicon-32x32.png",
+                        "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Redis provides data structures …"
+                    },
+                    {
+                        "url": "https://gitee.com/qishibo/AnotherRedisDesktopManager/releases/",
+                        "title": "AnotherRedisDesktopManager",
+                        "imageSrc": "./assets/images/logos/AnotherRedisDesktopManager.png",
+                        "description": "AnotherRedisDesktopManager Gitee下载网站"
+                    },
+                    {
+                        "url": "https://www.jetbrains.com/",
+                        "title": "JetBrains: Essential tools for software developers and teams",
+                        "imageSrc": "https://www.jetbrains.com/favicon.ico?r=1234",
+                        "description": "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, and the Kotlin programming language."
+                    },
+                    {
+                        "url": "https://code.visualstudio.com/",
+                        "title": "Visual Studio Code - Code Editing. Redefined",
+                        "imageSrc": "https://code.visualstudio.com/favicon.ico",
+                        "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows."
+                    },
+                    {
+                        "url": "https://www.graphviz.org/",
+                        "title": "Graphviz",
+                        "imageSrc": "./assets/images/logos/Graphviz.png",
+                        "description": "Graph Visualization Software"
+                    },
+                    {
+                        "url": "https://www.postman.com/",
+                        "title": "Postman",
+                        "imageSrc": "./assets/images/logos/Postman.png",
+                        "description": "Postman 官方网站"
+                    },
+                    {
+                        "url": "https://typoraio.cn/",
+                        "title": "Typora 官方中文站",
+                        "imageSrc": "https://typoraio.cn/img/favicon-128.png",
+                        "description": "Typora: 一款 Markdown 编辑器和阅读器。"
+                    }
+                ]
+            }
+        ]
+    }
+]
