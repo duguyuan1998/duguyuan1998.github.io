@@ -31,6 +31,37 @@
         "menuChildList": []
     },
     {
+        "menu": "AI大模型",
+        "icon": "linecons-star",
+        "websiteList": [
+            {
+                "url": "https://chat.deepseek.com/",
+                "title": "DeepSeek - 探索未至之境",
+                "imageSrc": "https://chat.deepseek.com/favicon.svg",
+                "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。"
+            },
+            {
+                "url": "https://kimi.moonshot.cn/",
+                "title": "Kimi.ai - 会推理解析，能深度思考的AI助手",
+                "imageSrc": "./assets/images/logos/kimi.png",
+                "description": "Kimi是一款学生和职场人的新质生产力工具，帮你解读论文，策划方案，创作小说，写代码查BUG，多语言翻译，有问题问Kimi，一键解决你的所有难题"
+            },
+            {
+                "url": "https://www.doubao.com/chat/",
+                "title": "豆包 - 字节跳动旗下 AI 智能助手",
+                "imageSrc": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/logo_new.png",
+                "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译情感陪伴编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。"
+            },
+            {
+                "url": "https://www.zaiwen.top/",
+                "title": "在问 | 让知识无界,智能触手可及",
+                "imageSrc": "https://www.zaiwen.top/favicon.ico",
+                "description": "在问社区是一个以科技普及为使命的免费开源社区，致力于为广大用户提供世界知识和专业服务。在问社区集成了众多优秀的大语言模型，用户可以轻松地获取和使用这些模型实现自然语言处理、智能问答、文本创作等多种功能。此外，我们还支持AI作画、文档分析、在线检索和思维导图等功能，帮助用户更高效地获取和处理信息。在问社区秉持开放、共享的精神，欢迎广大用户加入我们，共同探索科技的魅力。"
+            }
+        ],
+        "menuChildList": []
+    },
+    {
         "menu": "学习社区",
         "icon": "linecons-lightbulb",
         "websiteList": [],
@@ -244,6 +275,36 @@
                         "description": "MyBatis-Plus 官方文档"
                     },
                     {
+                        "url": "https://nacos.io/zh-cn/docs/what-is-nacos.html",
+                        "title": "Nacos文档",
+                        "imageSrc": "https://img.alicdn.com/tfs/TB1hgJpHAPoK1RjSZKbXXX1IXXa-64-64.png",
+                        "description": "Nacos官方文档"
+                    },
+                    {
+                        "url": "https://sentinelguard.io/zh-cn/docs/introduction.html",
+                        "title": "Sentinel文档",
+                        "imageSrc": "https://sentinelguard.io/img/sentinel.ico",
+                        "description": "Sentinel官方文档"
+                    },
+                    {
+                        "url": "https://seata.apache.org/zh-cn/docs/overview/what-is-seata",
+                        "title": "Apache Seata文档",
+                        "imageSrc": "https://seata.apache.org/zh-cn/img/seata_logo_small.jpeg",
+                        "description": "Apache Seata官方文档"
+                    },
+                    {
+                        "url": "https://arthas.aliyun.com/",
+                        "title": "Arthas",
+                        "imageSrc": "https://arthas.aliyun.com/images/favicon.ico",
+                        "description": "arthas 使用文档"
+                    },
+                    {
+                        "url": "https://doc.xiaominfo.com/",
+                        "title": "Knife4j",
+                        "imageSrc": "./assets/images/logos/knife4j.ico",
+                        "description": "Knife4j · 集Swagger2及OpenAPI3为一体的增强解决方案. "
+                    },
+                    {
                         "url": "https://cn.vuejs.org/",
                         "title": "Vue.js - 渐进式 JavaScript 框架",
                         "imageSrc": "https://cn.vuejs.org/logo.svg",
@@ -262,40 +323,16 @@
                         "description": "让中后台开发更简单 包含 table form 等多个组件。"
                     },
                     {
-                        "url": "https://nacos.io/zh-cn/docs/what-is-nacos.html",
-                        "title": "Nacos文档",
-                        "imageSrc": "https://img.alicdn.com/tfs/TB1hgJpHAPoK1RjSZKbXXX1IXXa-64-64.png",
-                        "description": "Nacos官方文档"
-                    },
-                    {
-                        "url": "https://sentinelguard.io/zh-cn/docs/introduction.html",
-                        "title": "Sentinel文档",
-                        "imageSrc": "https://sentinelguard.io/img/sentinel.ico",
-                        "description": "Sentinel官方文档"
+                        "url": "https://developers.weixin.qq.com/doc/",
+                        "title": "微信官方文档 | 微信开放文档",
+                        "imageSrc": "https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico",
+                        "description": "微信开发者平台文档"
                     },
                     {
                         "url": "https://doc.ruoyi.vip/",
                         "title": "RuoYi",
                         "imageSrc": "https://doc.ruoyi.vip/images/favicon.ico",
                         "description": "使用若依快速构建web应用程序"
-                    },
-                    {
-                        "url": "https://arthas.aliyun.com/",
-                        "title": "Arthas",
-                        "imageSrc": "https://arthas.aliyun.com/images/favicon.ico",
-                        "description": "arthas 使用文档"
-                    },
-                    {
-                        "url": "https://doc.xiaominfo.com/",
-                        "title": "Knife4j",
-                        "imageSrc": "./assets/images/logos/knife4j.ico",
-                        "description": "Knife4j · 集Swagger2及OpenAPI3为一体的增强解决方案. "
-                    },
-                    {
-                        "url": "https://developers.weixin.qq.com/doc/",
-                        "title": "微信官方文档 | 微信开放文档",
-                        "imageSrc": "https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico",
-                        "description": "微信开发者平台文档"
                     }
                 ]
             },
@@ -347,30 +384,6 @@
                 "icon": "",
                 "websiteList": [
                     {
-                        "url": "https://kimi.moonshot.cn/",
-                        "title": "Kimi.ai - 会推理解析，能深度思考的AI助手",
-                        "imageSrc": "./assets/images/logos/kimi.png",
-                        "description": "Kimi是一款学生和职场人的新质生产力工具，帮你解读论文，策划方案，创作小说，写代码查BUG，多语言翻译，有问题问Kimi，一键解决你的所有难题"
-                    },
-                    {
-                        "url": "https://www.zaiwen.top/",
-                        "title": "在问 | 让知识无界,智能触手可及",
-                        "imageSrc": "https://www.zaiwen.top/favicon.ico",
-                        "description": "在问社区是一个以科技普及为使命的免费开源社区，致力于为广大用户提供世界知识和专业服务。在问社区集成了众多优秀的大语言模型，用户可以轻松地获取和使用这些模型实现自然语言处理、智能问答、文本创作等多种功能。此外，我们还支持AI作画、文档分析、在线检索和思维导图等功能，帮助用户更高效地获取和处理信息。在问社区秉持开放、共享的精神，欢迎广大用户加入我们，共同探索科技的魅力。"
-                    },
-                    {
-                        "url": "https://fanyi.baidu.com/",
-                        "title": "百度翻译-200种语言互译、沟通全世界！",
-                        "imageSrc": "https://fanyi-cdn.cdn.bcebos.com/webStatic/translation/img/favicon/favicon-32x32.png",
-                        "description": "百度翻译提供即时免费200+语言翻译服务，拥有网页、APP、API产品，支持文本翻译、文档翻译、图片翻译等特色功能，满足用户查词翻译、文献翻译、合同翻译等需求，随时随地沟通全世界"
-                    },
-                    {
-                        "url": "https://fanyi.youdao.com/",
-                        "title": "有道翻译_文本、文档、网页、在线即时翻译",
-                        "imageSrc": "https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png",
-                        "description": "有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译、PDF翻译、DOC翻译、PPT翻译、人工翻译、同传等服务。"
-                    },
-                    {
                         "url": "https://js.design/",
                         "title": "即时设计",
                         "imageSrc": "https://img.js.design/assets/webImg/favicon.ico",
@@ -381,6 +394,30 @@
                         "title": "ProcessOn",
                         "imageSrc": "./assets/images/logos/processon.ico",
                         "description": "ProcessOn是一款专业在线作图工具和知识分享社区，提供AI生成思维导图流程图。支持思维导图、流程图、组织结构图、网络拓扑图、鱼骨图、UML图等多种图形，同时可实现人与人之间的实时协作和共享，提升团队工作效率。"
+                    },
+                    {
+                        "url": "https://app.diagrams.net/",
+                        "title": "draw.io",
+                        "imageSrc": "https://app.diagrams.net/favicon.ico",
+                        "description": "draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams"
+                    },
+                    {
+                        "url": "https://icraft.gantcloud.com/zh-CN",
+                        "title": "iCraft Editor - 3D架构图绘制工具",
+                        "imageSrc": "https://icraft.gantcloud.com/_next/static/media/logo.70d174ef.png",
+                        "description": "iCraft Editor是一款免费的3D架构图设计工具，是一款免费的 3D 架构图设计工具，可以帮助您绘制系统架构图、软件架构图、云架构图、网络拓扑图、AWS|GCP|Azure|AliCloud架构图以及其他3D架构图，采用真实3D场景，可视化为等距架构图, 可旋转视角、嵌套子场景，帮助您轻松绘制出色的3D架构图。"
+                    },
+                    {
+                        "url": "https://fanyi.youdao.com/",
+                        "title": "有道翻译_文本、文档、网页、在线即时翻译",
+                        "imageSrc": "https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png",
+                        "description": "有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译、PDF翻译、DOC翻译、PPT翻译、人工翻译、同传等服务。"
+                    },
+                    {
+                        "url": "https://fanyi.baidu.com/",
+                        "title": "百度翻译-200种语言互译、沟通全世界！",
+                        "imageSrc": "https://fanyi-cdn.cdn.bcebos.com/webStatic/translation/img/favicon/favicon-32x32.png",
+                        "description": "百度翻译提供即时免费200+语言翻译服务，拥有网页、APP、API产品，支持文本翻译、文档翻译、图片翻译等特色功能，满足用户查词翻译、文献翻译、合同翻译等需求，随时随地沟通全世界"
                     }
                 ]
             },
@@ -393,6 +430,12 @@
                         "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
                         "imageSrc": "https://www.bilibili.com/favicon.ico?v=1",
                         "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。"
+                    },
+                    {
+                        "url": "https://zh.z-lib.gs/",
+                        "title": "Z-library 项目 - 官方 Z-lib. 免费下载电子书",
+                        "imageSrc": "./assets/images/logos/Z-library.svg",
+                        "description": "Z-Library - 免费获取数百万电子书。立即查找并免费下载书籍。"
                     },
                     {
                         "url": "http://shu.ziyuandi.cn/",
@@ -450,16 +493,16 @@
                         "description": "MSDN, 我告诉你"
                     },
                     {
-                        "url": "https://www.centos.org/",
-                        "title": "CentOS Project",
-                        "imageSrc": "https://www.centos.org/assets/img/favicon.png",
-                        "description": "Community-driven free software effort focused around the goal of providing a rich base platform for open source communities to build upon."
-                    },
-                    {
                         "url": "https://cn.ubuntu.com/",
                         "title": "企业开源和Linux | Ubuntu",
                         "imageSrc": "https://cn.ubuntu.com/static/img/favicon.ico",
                         "description": "Ubuntu是适用于企业服务器、桌面电脑、云、IoT物联网的现代化开源Linux操作系统。Ubuntu官网。"
+                    },
+                    {
+                        "url": "https://www.centos.org/",
+                        "title": "CentOS Project",
+                        "imageSrc": "https://www.centos.org/assets/img/favicon.png",
+                        "description": "Community-driven free software effort focused around the goal of providing a rich base platform for open source communities to build upon."
                     }
                 ]
             },
