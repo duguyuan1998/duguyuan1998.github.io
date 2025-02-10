@@ -53,6 +53,24 @@
                 "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译情感陪伴编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。"
             },
             {
+                "url": "https://yiyan.baidu.com/",
+                "title": "文心一言",
+                "imageSrc": "https://nlp-eb.cdn.bcebos.com/logo/favicon.ico",
+                "description": "文心一言既是你的智能伙伴，可以陪你聊天、回答问题、画图识图；也是你的AI助手，可以提供灵感、撰写文案、阅读文档、智能翻译，帮你高效完成工作和学习任务。"
+            },
+            {
+                "url": "https://tongyi.aliyun.com/",
+                "title": "通义tongyi.ai_你的全能AI助手-通义千问",
+                "imageSrc": "https://img.alicdn.com/imgextra/i1/O1CN01asLYeX1WhbsyEZn5u_!!6000000002820-55-tps-56-56.svg",
+                "description": "通义是一个通情、达义的国产AI模型，可以帮你解答问题、文档阅读、联网搜索并写作总结，最多支持1000万字的文档速读。通义tongyi.ai_你的全能AI助手"
+            },
+            {
+                "url": "https://chatglm.cn/",
+                "title": "智谱清言",
+                "imageSrc": "./assets/images/logos/chatglm.png",
+                "description": "中国版对话语言模型，与GLM大模型进行对话。"
+            },
+            {
                 "url": "https://www.zaiwen.top/",
                 "title": "在问 | 让知识无界,智能触手可及",
                 "imageSrc": "https://www.zaiwen.top/favicon.ico",
